@@ -1,0 +1,352 @@
+[
+  {
+    "flipbook_texture": "textures/blocks/double_plant_grass_top",
+    "atlas_index": 2,
+    "atlas_tile_variant": 2,
+    "atlas_tile": "double_plant_top",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 ],
+    "ticks_per_frame": 2
+  },
+  {
+    "flipbook_texture": "textures/blocks/tallgrass",
+    "atlas_tile": "tallgrass",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0 ],
+    "ticks_per_frame": 2
+  },
+  {
+    "flipbook_texture": "textures/blocks/double_plant_paeonia_top",
+    "atlas_index": 5,
+    "atlas_tile_variant": 5,
+    "atlas_tile": "double_plant_top",
+    "frames": [ 0, 1, 2, 3 ],
+    "ticks_per_frame": 7
+  },
+  {
+    "flipbook_texture": "textures/blocks/double_plant_rose_top",
+    "atlas_index": 4,
+    "atlas_tile_variant": 4,
+    "atlas_tile": "double_plant_top",
+    "frames": [ 0, 1, 2, 3, 4, 5 ],
+    "ticks_per_frame": 6
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_allium",
+    "atlas_index": 2,
+    "atlas_tile_variant": 2,
+    "atlas_tile": "red_flower",
+    "frames": [ 0, 1, 2, 3 ],
+    "ticks_per_frame": 7
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_blue_orchid",
+    "atlas_index": 1,
+    "atlas_tile_variant": 1,
+    "atlas_tile": "red_flower",
+    "frames": [ 0, 1, 2, 3, 4, 5 ],
+    "ticks_per_frame": 6
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_cornflower",
+    "atlas_index": 9,
+    "atlas_tile_variant": 9,
+    "atlas_tile": "red_flower",
+    "frames": [ 0, 1, 2, 3 ],
+    "ticks_per_frame": 7
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_dandelion",
+    "atlas_tile": "yellow_flower",
+    "frames": [ 0, 1, 2, 3 ],
+    "ticks_per_frame": 7
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_houstonia",
+    "atlas_index": 3,
+    "atlas_tile_variant": 3,
+    "atlas_tile": "red_flower",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_lily_of_the_valley",
+    "atlas_index": 10,
+    "atlas_tile_variant": 10,
+    "atlas_tile": "red_flower",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_oxeye_daisy",
+    "atlas_index": 8,
+    "atlas_tile_variant": 8,
+    "atlas_tile": "red_flower",
+    "frames": [ 0, 1, 2, 3, 4, 5 ],
+    "ticks_per_frame": 6
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_paeonia",
+    "atlas_tile": "red_flower",
+    "frames": [ 0, 1, 2, 3 ],
+    "ticks_per_frame": 7
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_rose",
+    "atlas_index": 0,
+    "atlas_tile_variant": 0,
+    "atlas_tile": "red_flower",
+    "frames": [ 0, 1, 2, 3 ],
+    "ticks_per_frame": 7
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_rose_blue",
+    "atlas_tile": "red_flower",
+    "frames": [ 0, 1, 2, 3 ],
+    "ticks_per_frame": 7
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_tulip_orange",
+    "atlas_index": 5,
+    "atlas_tile_variant": 5,
+    "atlas_tile": "red_flower",
+    "frames": [ 0, 1, 2, 3 ],
+    "ticks_per_frame": 7
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_tulip_pink",
+    "atlas_index": 7,
+    "atlas_tile_variant": 7,
+    "atlas_tile": "red_flower",
+    "frames": [ 0, 1, 2, 3 ],
+    "ticks_per_frame": 7
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_tulip_red",
+    "atlas_index": 4,
+    "atlas_tile_variant": 4,
+    "atlas_tile": "red_flower",
+    "frames": [ 0, 1, 2, 3 ],
+    "ticks_per_frame": 7
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_tulip_white",
+    "atlas_index": 6,
+    "atlas_tile_variant": 6,
+    "atlas_tile": "red_flower",
+    "frames": [ 0, 1, 2, 3, 4 ],
+    "ticks_per_frame": 7
+  },
+  {
+    "flipbook_texture": "textures/blocks/flower_wither_rose",
+    "atlas_tile": "wither_rose",
+    "frames": [ 0, 1, 2, 3 ],
+    "ticks_per_frame": 7
+  },
+  {
+    "flipbook_texture": "textures/blocks/azalea_leaves",
+    "atlas_index": 0,
+    "atlas_tile_variant": 0,
+    "atlas_tile": "azalea_leaves",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/azalea_leaves_flowers",
+    "atlas_index": 0,
+    "atlas_tile_variant": 0,
+    "atlas_tile": "azalea_leaves_flowered",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/cherry_leaves",
+    "atlas_tile": "cherry_leaves",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 7, 6, 5, 4, 3, 2, 1, 0 ],
+    "ticks_per_frame": 3
+  },
+  {
+    "flipbook_texture": "textures/blocks/leaves_acacia",
+    "atlas_index": 0,
+    "atlas_tile_variant": 0,
+    "atlas_tile": "leaves2",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "ticks_per_frame": 3
+  },
+  {
+    "flipbook_texture": "textures/blocks/leaves_big_oak",
+    "atlas_index": 1,
+    "atlas_tile_variant": 1,
+    "atlas_tile": "leaves2",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 ],
+    "ticks_per_frame": 3
+  },
+  {
+    "flipbook_texture": "textures/blocks/leaves_birch",
+    "atlas_index": 2,
+    "atlas_tile_variant": 2,
+    "atlas_tile": "leaves",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 ],
+    "ticks_per_frame": 3
+  },
+  {
+    "flipbook_texture": "textures/blocks/leaves_jungle",
+    "atlas_index": 3,
+    "atlas_tile_variant": 3,
+    "atlas_tile": "leaves",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 ],
+    "ticks_per_frame": 3
+  },
+  {
+    "flipbook_texture": "textures/blocks/leaves_oak",
+    "atlas_index": 0,
+    "atlas_tile_variant": 0,
+    "atlas_tile": "leaves",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ],
+    "ticks_per_frame": 3
+  },
+  {
+    "flipbook_texture": "textures/blocks/leaves_spruce",
+    "atlas_index": 1,
+    "atlas_tile_variant": 1,
+    "atlas_tile": "leaves",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/mangrove_leaves",
+    "atlas_tile": "mangrove_leaves",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/bamboo_leaf",
+    "atlas_tile": "bamboo_leaf",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/bamboo_small_leaf",
+    "atlas_tile": "bamboo_small_leaf",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/beetroots_stage_2",
+    "atlas_index": 2,
+    "atlas_tile_variant": 2,
+    "atlas_tile": "beetroot",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/beetroots_stage_3",
+    "atlas_index": 3,
+    "atlas_tile_variant": 3,
+    "atlas_tile": "beetroot",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/carrots_stage_2",
+    "atlas_index": 2,
+    "atlas_tile_variant": 2,
+    "atlas_tile": "carrots",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/carrots_stage_3",
+    "atlas_index": 3,
+    "atlas_tile_variant": 3,
+    "atlas_tile": "carrots",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/deadbush",
+    "atlas_tile": "deadbush",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/double_plant_fern_top",
+    "atlas_index": 3,
+    "atlas_tile_variant": 3,
+    "atlas_tile": "double_plant_top",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/fern",
+    "atlas_index": 2,
+    "atlas_tile_variant": 2,
+    "atlas_tile": "tallgrass",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/potatoes_stage_2",
+    "atlas_index": 2,
+    "atlas_tile_variant": 2,
+    "atlas_tile": "potatoes",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/potatoes_stage_3",
+    "atlas_index": 3,
+    "atlas_tile_variant": 3,
+    "atlas_tile": "potatoes",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/sweet_berry_bush_stage1",
+    "atlas_tile": "sweet_berry_bush_1",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/sweet_berry_bush_stage2",
+    "atlas_tile": "sweet_berry_bush_2",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/sweet_berry_bush_stage3",
+    "atlas_tile": "sweet_berry_bush_3",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/wheat_stage_4",
+    "atlas_index": 4,
+    "atlas_tile_variant": 4,
+    "atlas_tile": "wheat",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/wheat_stage_5",
+    "atlas_index": 5,
+    "atlas_tile_variant": 5,
+    "atlas_tile": "wheat",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7 ],
+    "ticks_per_frame": 5
+  },
+  {
+    "flipbook_texture": "textures/blocks/wheat_stage_6",
+    "atlas_index": 6,
+    "atlas_tile_variant": 6,
+    "atlas_tile": "wheat",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 ],
+    "ticks_per_frame": 4
+  },
+  {
+    "flipbook_texture": "textures/blocks/wheat_stage_7",
+    "atlas_index": 7,
+    "atlas_tile_variant": 7,
+    "atlas_tile": "wheat",
+    "frames": [ 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 ],
+    "ticks_per_frame": 4
+  }
+]

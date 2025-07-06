@@ -1,0 +1,27 @@
+{
+  "resource_pack_name": "youzaiworld",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "raffle_ticket": {
+      "textures": "textures/items/raffle_ticket"
+    },
+    "gold_coin_1": {
+      "textures": "textures/items/gold_coin_1"
+    },
+    "gold_coin_5": {
+      "textures": "textures/items/gold_coin_5"
+    },
+    "gold_coin_10": {
+      "textures": "textures/items/gold_coin_10"
+    },
+    "gold_coin_50": {
+      "textures": "textures/items/gold_coin_50"
+    },
+    "gold_coin_100": {
+      "textures": "textures/items/gold_coin_100"
+    },
+    "gold_coin_500": {
+      "textures": "textures/items/gold_coin_500"
+    }
+  }
+}
