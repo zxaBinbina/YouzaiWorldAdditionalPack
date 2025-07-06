@@ -1,5 +1,6 @@
 # YouzaiWorldAdditionalPack
 Additional packages for YouzaiWorld servers.
+This is a Minecraft add-on package for Youzaiworld servers
 --------------------------------
 ****Minecraft Bedrock Edision 1.21.80 Sever****
 --------------------------------
