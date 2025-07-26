@@ -1,0 +1,8 @@
+{
+    "hud_screen": {
+        "always_accepts_input": false,
+        "render_only_when_topmost": false,
+        "$screen_animations": [],
+        "$use_loading_bars": false
+    }
+}
