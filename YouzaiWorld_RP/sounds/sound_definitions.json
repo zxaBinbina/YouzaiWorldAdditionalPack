@@ -1,0 +1,11 @@
+{
+"youzaiworld.lresult": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "sounds/youzaiworld/lresult",
+                "stream":true
+            }
+        ]
+    }
+}
