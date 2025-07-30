@@ -1,0 +1,186 @@
+{
+  "dimension_loading_screen_base@common.empty_panel":{
+    "controls":[
+      {
+        "screen_text":{
+          "type":"label",
+          "text":"$dimension_screen_text",
+          "font_scale_factor":3.5,
+          "shadow":true,
+          "force_render_below":true,
+          "anchor_from":"center",
+          "anchor_to":"center",
+          "offset":[ 0, 10 ]
+        }
+      },
+      {
+        "screen_title@common_art.title_panel_content":{
+          "$splash_text_visible":false
+        }
+      },
+      {
+        "progress_title_text@progress.progress_title_text":{
+          "font_scale_factor":1.2,
+          "shadow":true,
+          "anchor_from":"bottom_left",
+          "anchor_to":"bottom_left",
+          "offset":[ 29.5, -21 ]
+        }
+      },
+      {
+        "progress_bar_text@progress.progress_bar_text":{
+          "localize":false,
+          "shadow":true,
+          "max_size":[ "100% - 65px", 40 ],
+          "anchor_from":"bottom_left",
+          "anchor_to":"bottom_left",
+          "offset":[ 30, -6 ]
+        }
+      },
+      {
+        "loading_tool_animation@persona_common.loading_icon":{
+          "anchor_from":"center",
+          "anchor_to":"center",
+          "offset":[ 0, 60 ],
+          "size":[ 60, 60 ]
+        }
+      },
+      {
+        "fancy_progress_loading_bars@progress.fancy_progress_loading_bars":{
+          "anchor_from":"bottom_middle",
+          "anchor_to":"bottom_middle",
+          "offset":[ 0, 0 ],
+          "size":[ "90%", 5 ],
+          "bindings":[]
+        }
+      }
+    ]
+  },
+  "world_convert_modal_progress_screen_content":{
+    "controls":[
+      {
+        "screen_text":{
+          "type":"label",
+          "text":"world.loading",
+          "font_scale_factor":3.5,
+          "shadow":true,
+          "force_render_below":true,
+          "anchor_from":"center",
+          "anchor_to":"center",
+          "offset":[ 0, 10 ]
+        }
+      },
+      {
+        "title_panel_content@common_art.title_panel_content":{
+          "$splash_text_visible":false
+        }
+      },
+      {
+        "progress_title_text@progress.progress_title_text":{
+          "font_scale_factor":1.2,
+          "shadow":true,
+          "anchor_from":"bottom_left",
+          "anchor_to":"bottom_left",
+          "offset":[ 29.5, -21 ]
+        }
+      },
+      {
+        "progress_bar_text@progress.progress_bar_text":{
+          "localize":false,
+          "shadow":true,
+          "max_size":[ "100% - 65px", 40 ],
+          "anchor_from":"bottom_left",
+          "anchor_to":"bottom_left",
+          "offset":[ 30, -6 ]
+        }
+      },
+      {
+        "loading_tool_animation@persona_common.loading_icon":{
+          "anchor_from":"center",
+          "anchor_to":"center",
+          "offset":[ 0, 60 ],
+          "size":[ 60, 60 ]
+        }
+      },
+      {
+        "fancy_progress_loading_bars@progress.fancy_progress_loading_bars":{
+          "anchor_from":"bottom_middle",
+          "anchor_to":"bottom_middle",
+          "offset":[ 0, 0 ],
+          "size":[ "90%", 5 ],
+          "bindings":[]
+        }
+      },
+      {
+        "mobile_data_icon@progress.mobile_data_icon":{}
+      }
+    ]
+  },
+  "world_save_modal_progress_screen_content":{
+    "controls":[
+      {
+        "screen_text":{
+          "type":"label",
+          "text":"world.saving",
+          "font_scale_factor":3.5,
+          "shadow":true,
+          "force_render_below":true,
+          "anchor_from":"center",
+          "anchor_to":"center",
+          "offset":[ 0, 10 ]
+        }
+      },
+      {
+        "title_panel_content@common_art.title_panel_content":{
+          "$splash_text_visible":false
+        }
+      },
+      {
+        "progress_title_text@progress.progress_title_text":{
+          "font_scale_factor":1.2,
+          "shadow":true,
+          "anchor_from":"bottom_left",
+          "anchor_to":"bottom_left",
+          "offset":[ 29.5, -21 ]
+        }
+      },
+      {
+        "progress_bar_text@progress.progress_bar_text":{
+          "localize":false,
+          "shadow":true,
+          "max_size":[ "100% - 65px", 40 ],
+          "anchor_from":"bottom_left",
+          "anchor_to":"bottom_left",
+          "offset":[ 30, -6 ]
+        }
+      },
+      {
+        "loading_tool_animation@persona_common.loading_icon":{
+          "anchor_from":"center",
+          "anchor_to":"center",
+          "offset":[ 0, 60 ],
+          "size":[ 60, 60 ]
+        }
+      },
+      {
+        "save_icon@progress.auto_save":{
+          "anchor_from":"bottom_middle",
+          "anchor_to":"bottom_middle",
+          "offset":[ 0, -20 ]
+        }
+      }
+    ]
+  },
+  "overworld_loading_progress_screen":{
+    "$dimension_screen_text":"dimension.overworld",
+    "$screen_content":"progress.dimension_loading_screen_base"
+  },
+  "nether_loading_progress_screen":{
+    "$dimension_screen_text":"dimension.nether",
+    "$screen_content":"progress.dimension_loading_screen_base"
+  },
+  "theend_loading_progress_screen":{
+    "$dimension_screen_text":"dimension.theend",
+    "$screen_content":"progress.dimension_loading_screen_base"
+  }
+}

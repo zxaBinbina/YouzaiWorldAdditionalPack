@@ -6,7 +6,11 @@ item.youzaiworld:gold_coin_50=§l§e50 金币兑换券
 item.youzaiworld:gold_coin_100=§l§e100 金币兑换券
 item.youzaiworld:gold_coin_500=§l§e500 金币兑换券
 
-
+world.loading=进入§b中
+world.saving=退出§b中
+dimension.overworld=去往§e主世界§b中
+dimension.nether=去往§e下界§b中
+dimension.theend=去往§e末地§b中
 
 container.brewing=酿造台 
 createWorldScreen.gameMode.adventure= 冒险

@@ -6,7 +6,11 @@ item.youzaiworld:gold_coin_50=§l§e50 Gold Coin Ticket
 item.youzaiworld:gold_coin_100=§l§e100 Gold Coin Ticket
 item.youzaiworld:gold_coin_500=§l§e500 Gold Coin Ticket
 
-
+world.loading=§bEntering
+world.saving=§bExiting
+dimension.overworld=To §eOverworld
+dimension.nether=To §eNether
+dimension.theend=To §eThe End
 
 menu.play= Play 
 menu.settings= Settings 
