@@ -1,6 +1,6 @@
 {
     "texture_name": "atlas.terrain",
-    "resource_pack_name": "youzaiworld",
+    "resource_pack_name": "youzaiworld", 
     "padding": 8,
     "num_mip_levels": 4,
     "texture_data": {
