@@ -4,14 +4,14 @@
 		"name": "§l§e悠哉世界行为包§r",
 		"description": "§e§l适用于悠哉世界的行为包§r",
 		"uuid": "f18001ea-c348-45a9-8df3-74e82b71a85f",
-		"version": [ 1, 5, 1],
+		"version": [ 1, 5, 2],
 		"min_engine_version": [ 1, 20, 80 ]
 	},
 	"modules": [
 		{
 			"description": "By.zxabinbina",
 			"uuid": "4de46393-b5f3-4ebd-85f0-f634ce23389f",
-			"version": [ 1, 5, 1],
+			"version": [ 1, 5, 2],
 			"type": "data"
 		}
     ],
@@ -22,7 +22,7 @@
     },
 	"dependencies": [
 		{
-			"version": [ 1, 5, 1],
+			"version": [ 1, 5, 2],
 			"uuid": "6bf3beff-4c9a-4ed0-9cbe-5efe8b474368"
 		}
 	]

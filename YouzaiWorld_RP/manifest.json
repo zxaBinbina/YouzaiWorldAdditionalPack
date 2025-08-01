@@ -2,16 +2,16 @@
 	"format_version": 2,
 	"header": {
 		"name": "§l§e悠哉世界资源包§r",
-		"description": "§e§l适用于悠哉世界的资源包\n整合了以下资源包 \n https://mcpedl.com/icons/ \n https://mcpedl.com/waving-leaves-grass-and-plants-texture-pack/ \n https://mcpedl.com/better-loading-screens/ \n https://b23.tv/W8rpus9 \n 已经对能取得联系的创作者们申请授权，非常感谢各位创作者！ \n 感谢您游玩服务器§r",
+		"description": "§e§l适用于悠哉世界的资源包\n整合了以下资源包 \n https://b23.tv/W8rpus9 \n 等，其余资源包可以在目录里查看 \n 已经对能取得联系的创作者们申请授权，非常感谢各位创作者！ \n 感谢您游玩服务器§r",
 		"uuid": "6bf3beff-4c9a-4ed0-9cbe-5efe8b474368",
-		"version": [ 1, 5, 1],
+		"version": [ 1, 5, 2],
 		"min_engine_version": [ 1, 20, 80]
 	},
 	"modules": [
 		{
 			"description": "By.zxabinbina",
 			"uuid": "2aea1884-f24f-4cac-885b-4171eab97da3",
-			"version": [ 1, 5, 1],
+			"version": [ 1, 5, 2],
 			"type": "resources"
 		}
     ],
@@ -22,7 +22,7 @@
     },
 	"dependencies": [
 		{
-			"version": [ 1, 5, 1],
+			"version": [ 1, 5, 2],
 			"uuid": "f18001ea-c348-45a9-8df3-74e82b71a85f"
 		}
 	]

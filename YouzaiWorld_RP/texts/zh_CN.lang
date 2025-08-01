@@ -6,6 +6,8 @@ item.youzaiworld:gold_coin_50=§l§e50 金币兑换券
 item.youzaiworld:gold_coin_100=§l§e100 金币兑换券
 item.youzaiworld:gold_coin_500=§l§e500 金币兑换券
 item.youzaiworld:gold_coin=§l§e金币
+tile.youzaiworld:gold_ore.name=§e金币矿石
+item.record_11.desc=§e彩蛋: §c国际歌 §r-§b 中华人民解放军军乐团
 
 world.loading=进入§e服务器§b中
 world.saving=退出§e服务器§b中
