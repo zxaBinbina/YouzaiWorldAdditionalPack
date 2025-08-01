@@ -2,9 +2,9 @@
     "format_version": "1.20.80",
     "minecraft:block": {
         "description": {
-            "identifier": "youzaieorld:gold_ore",
+            "identifier": "youzaiworld:gold_coin_ore",
             "menu_category": {
-                "category": "construction",
+                "category": "nature",
                 "group": "itemGroup.name.ore",
                 "is_hidden_in_commands": true
             }
@@ -18,12 +18,13 @@
             },
             "minecraft:friction": 0.4,
             "minecraft:map_color": "#e5ff00ff",
+            "minecraft:loot": "loot_tables/blocks/gold_coin_ore.json",
             "minecraft:light_dampening": 0,
             "minecraft:light_emission": 5,
-            "minecraft:geometry": "youzaiworld.gold_ore",
+            "minecraft:geometry": "youzaiworld.gold_coin_ore",
             "minecraft:material_instances": {
                 "*": {
-                    "texture": "gold_ore",
+                    "texture": "gold_coin_ore",
                     "render_method": "alpha_test"
                 }
             }
