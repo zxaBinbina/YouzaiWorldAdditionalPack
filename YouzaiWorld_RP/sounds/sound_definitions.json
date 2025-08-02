@@ -1,11 +1,23 @@
 {
-"youzaiworld.lresult": {
-        "category": "music",
-        "sounds": [
-            {
-                "name": "sounds/youzaiworld/lresult",
-                "stream":true
-            }
-        ]
+    "format_version": "1.21.80",
+    "sound_definitions": {
+        "youzaiworld.lresult": {
+            "category": "music",
+            "sounds": [
+                {
+                    "name": "sounds/youzaiworld/lresult",
+                    "stream": true
+                }
+            ]
+        },
+        "youzaiworld.la_vaguelette": {
+            "category": "music",
+            "sounds": [
+                {
+                    "name": "sounds/youzaiworld/la_vaguelette",
+                    "stream": true
+                }
+            ]
+        }
     }
 }
