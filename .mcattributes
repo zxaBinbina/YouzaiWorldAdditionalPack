@@ -1,3 +1,4 @@
 
 diagnostic.disable.behaviorpack.loot_tables.missing=true
 diagnostic.disable.minecraft.language.comment.invalid=true
+diagnostic.disable.behaviorpack.recipes.unlocking_required=true

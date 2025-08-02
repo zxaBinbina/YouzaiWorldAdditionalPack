@@ -1,0 +1,21 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "gold_coin"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "youzaiworld:gold_coin_1",
+        "count": 1
+      }
+    ],
+    "result": {
+      "item": "youzaiworld:gold_coin",
+      "count": 1
+    }
+  }
+}
