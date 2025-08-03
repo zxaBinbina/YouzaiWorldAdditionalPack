@@ -5,7 +5,16 @@
             "category": "music",
             "sounds": [
                 {
-                    "name": "sounds/youzaiworld/lresult",
+                    "name": "sounds/youzaiworld/l_result",
+                    "stream": true
+                }
+            ]
+        },
+        "youzaiworld.lprocess": {
+            "category": "music",
+            "sounds": [
+                {
+                    "name": "sounds/youzaiworld/l_process",
                     "stream": true
                 }
             ]
