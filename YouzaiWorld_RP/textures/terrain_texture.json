@@ -6,6 +6,9 @@
     "texture_data": {
         "gold_coin_ore": {
             "textures": "textures/blocks/gold_coin_ore"
+        },
+        "logo": {
+            "textures": "textures/blocks/logo"
         }
     }
 }
