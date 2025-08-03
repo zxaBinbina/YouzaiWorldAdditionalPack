@@ -5,6 +5,9 @@
     "gold_coin": {
       "textures": "textures/items/gold_coin"
     },
+    "gold_coin_part": {
+      "textures": "textures/items/gold_coin_part"
+    },
     "raffle_ticket": {
       "textures": "textures/items/raffle_ticket"
     },
